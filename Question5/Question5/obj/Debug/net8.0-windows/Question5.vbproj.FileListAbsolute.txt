@@ -1,0 +1,16 @@
+F:\Code\Visual Basic\Question5\Question5\bin\Debug\net8.0-windows\Question5.exe
+F:\Code\Visual Basic\Question5\Question5\bin\Debug\net8.0-windows\Question5.deps.json
+F:\Code\Visual Basic\Question5\Question5\bin\Debug\net8.0-windows\Question5.runtimeconfig.json
+F:\Code\Visual Basic\Question5\Question5\bin\Debug\net8.0-windows\Question5.dll
+F:\Code\Visual Basic\Question5\Question5\bin\Debug\net8.0-windows\Question5.pdb
+F:\Code\Visual Basic\Question5\Question5\obj\Debug\net8.0-windows\Question5.Form1.resources
+F:\Code\Visual Basic\Question5\Question5\obj\Debug\net8.0-windows\Question5.vbproj.GenerateResource.cache
+F:\Code\Visual Basic\Question5\Question5\obj\Debug\net8.0-windows\Question5.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\Visual Basic\Question5\Question5\obj\Debug\net8.0-windows\Question5.AssemblyInfoInputs.cache
+F:\Code\Visual Basic\Question5\Question5\obj\Debug\net8.0-windows\Question5.AssemblyInfo.vb
+F:\Code\Visual Basic\Question5\Question5\obj\Debug\net8.0-windows\Question5.vbproj.CoreCompileInputs.cache
+F:\Code\Visual Basic\Question5\Question5\obj\Debug\net8.0-windows\Question5.dll
+F:\Code\Visual Basic\Question5\Question5\obj\Debug\net8.0-windows\refint\Question5.dll
+F:\Code\Visual Basic\Question5\Question5\obj\Debug\net8.0-windows\Question5.pdb
+F:\Code\Visual Basic\Question5\Question5\obj\Debug\net8.0-windows\Question5.genruntimeconfig.cache
+F:\Code\Visual Basic\Question5\Question5\obj\Debug\net8.0-windows\ref\Question5.dll

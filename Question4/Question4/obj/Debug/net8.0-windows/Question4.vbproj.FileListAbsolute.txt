@@ -1,0 +1,16 @@
+F:\Code\Visual Basic\Question4\Question4\bin\Debug\net8.0-windows\Question4.exe
+F:\Code\Visual Basic\Question4\Question4\bin\Debug\net8.0-windows\Question4.deps.json
+F:\Code\Visual Basic\Question4\Question4\bin\Debug\net8.0-windows\Question4.runtimeconfig.json
+F:\Code\Visual Basic\Question4\Question4\bin\Debug\net8.0-windows\Question4.dll
+F:\Code\Visual Basic\Question4\Question4\bin\Debug\net8.0-windows\Question4.pdb
+F:\Code\Visual Basic\Question4\Question4\obj\Debug\net8.0-windows\Question4.Form1.resources
+F:\Code\Visual Basic\Question4\Question4\obj\Debug\net8.0-windows\Question4.vbproj.GenerateResource.cache
+F:\Code\Visual Basic\Question4\Question4\obj\Debug\net8.0-windows\Question4.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\Visual Basic\Question4\Question4\obj\Debug\net8.0-windows\Question4.AssemblyInfoInputs.cache
+F:\Code\Visual Basic\Question4\Question4\obj\Debug\net8.0-windows\Question4.AssemblyInfo.vb
+F:\Code\Visual Basic\Question4\Question4\obj\Debug\net8.0-windows\Question4.vbproj.CoreCompileInputs.cache
+F:\Code\Visual Basic\Question4\Question4\obj\Debug\net8.0-windows\Question4.dll
+F:\Code\Visual Basic\Question4\Question4\obj\Debug\net8.0-windows\refint\Question4.dll
+F:\Code\Visual Basic\Question4\Question4\obj\Debug\net8.0-windows\Question4.pdb
+F:\Code\Visual Basic\Question4\Question4\obj\Debug\net8.0-windows\Question4.genruntimeconfig.cache
+F:\Code\Visual Basic\Question4\Question4\obj\Debug\net8.0-windows\ref\Question4.dll
